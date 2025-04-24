@@ -6,8 +6,8 @@
 // @icon         https://raw.githubusercontent.com/githubkorean/Friend-Rickroller/refs/heads/main/icon.png
 // @author       Rick Astley
 // @match        *://*/*
-// @supportURL   https://www.youtube.com/watch?v=dQw4w9WgXcQ
-// @homepageURL  https://www.youtube.com/watch?v=dQw4w9WgXcQ
+// @supportURL   https://github.com/githubkorean/Friend-Rickroller
+// @homepageURL  https://github.com/githubkorean/Friend-Rickroller
 // @grant        GM_getValue
 // @grant        GM_setValue
 // ==/UserScript==
