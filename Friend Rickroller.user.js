@@ -10,6 +10,7 @@
 // @homepageURL  https://github.com/githubkorean/Friend-Rickroller
 // @grant        GM_getValue
 // @grant        GM_setValue
+// @license      MIT
 // ==/UserScript==
 
 (function () {
